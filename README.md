@@ -1,1 +1,2 @@
 # MultipeerSample
+MultipeerSampleを使ったBluetooth通信サンプル
